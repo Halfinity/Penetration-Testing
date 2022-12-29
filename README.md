@@ -12,7 +12,7 @@ Explanation:
 
 Thank you and enjoy! :)
 
-*NOTE YOU MUST INSALLED ON YOUR KALI LINUX:*
+*YOU MUST INSTALLED ON YOUR LINUX:*
 
 Nmap -> https://www.kali.org/tools/nmap/
 
